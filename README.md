@@ -21,7 +21,8 @@ I'm open to:
 - 🎬 Design & Motion Projects (short films, music videos, promos etc)
 - 🧠 Conceptual & Experimental work as well! lets talk!
 
-📫 Reach me at: a.ubelhor[@]gmail.com
-📷 Instagram: https://www.instagram.com/alex91.jpg/
-📹 youtube: https://www.youtube.com/@alex91.mp4
-👾 https://alex-codes-portfolio.netlify.app/
+- 📫 Reach me at: a.ubelhor[@]gmail.com
+- 📷 Instagram: [@alex91.jpg](https://www.instagram.com/alex91.jpg/)  
+- 📹 YouTube: [@alex91.mp4](https://www.youtube.com/@alex91.mp4)  
+- 👾 Portfolio: [alex-codes-portfolio.netlify.app](https://alex-codes-portfolio.netlify.app)
+
