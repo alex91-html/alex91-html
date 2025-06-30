@@ -10,16 +10,22 @@ I'm open to collaborate on projects!
 - 💻 Web Development (HTML, CSS, JS, React, Node.js and some more)
 - 🧪 trying some creative tech experiments latley getting into Three.js...
 
+---
+
 ### 🚀 I'm currently:
 - Studying full stack development in order in the future to merge **code + creativity**
 - Freelancing across design and animation projects
 - deepening my interest in storytelling
+
+---
 
 ### 🤝 Let's Collaborate!
 I'm open to:
 - 🔁 Creative Dev Collabs (websites, interactive websites, generative visuals)
 - 🎬 Design & Motion Projects (short films, music videos, promos etc)
 - 🧠 Conceptual & Experimental work as well! lets talk!
+
+---
 
 - 📫 Reach me at: a.ubelhor[@]gmail.com
 - 📷 Instagram: [@alex91.jpg](https://www.instagram.com/alex91.jpg/)  
