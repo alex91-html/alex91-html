@@ -46,3 +46,9 @@ I'm open to:
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-F24E1E?style=flat&logo=adobeillustrator&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FF5F1F?style=flat&logo=blackmagicdesign&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat&logo=magic-the-gathering&logoColor=white)
+
