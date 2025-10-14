@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi there
 
 I'm **Alex**, I'm currently studying **Full Stack Web Development** while freelancing in **graphic design**, **motion dwesign**, and **3D animation**.
 
 I'm open to collaborate on projects!
 
-### 🎨 What I Do
+### What I Do
 - 🖌️ Graphic & Visual Design (layouts, digital design etc)
 - 🎞️ Motion Design & Animation (After Effects, Blender etc)
 - 💻 Web Development (HTML, CSS, JS, React, Node.js and some more)
@@ -12,14 +12,7 @@ I'm open to collaborate on projects!
 
 ---
 
-### 🚀 I'm currently:
-- Studying full stack development in order in the future to merge **code + creativity**
-- Freelancing across design and animation projects
-- deepening my interest in storytelling
-
----
-
-### 🤝 Let's Collaborate!
+### Let's Collaborate!
 I'm open to:
 - 🔁 Creative Dev Collabs (websites, interactive websites, generative visuals)
 - 🎬 Design & Motion Projects (short films, music videos, promos etc)
