@@ -1,4 +1,4 @@
-## Hi there
+Hi there
 
 I'm **Alex**, I'm currently studying **Full Stack Web Development** while freelancing in **graphic design**, **motion dwesign**, and **3D animation**.
 
