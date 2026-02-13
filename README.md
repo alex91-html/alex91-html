@@ -1,6 +1,6 @@
 Hi there
 
-I'm **Alex**, I recently finished my studies in **Full Stack Web Development** at Technigo while freelancing in **graphic design**, **motion dwesign**, and **3D animation**.
+I'm **Alex**, I recently finished my studies in **Full Stack Web Development** at Technigo while freelancing in **graphic design**, **motion design**, and **3D animation**.
 
 I'm open to collaborate on projects!
 
@@ -8,7 +8,6 @@ I'm open to collaborate on projects!
 - 💻 Web Development (HTML, CSS, JS, React, Node.js and some more)
 - 🖌️ Graphic & Visual Design (layouts, digital design etc)
 - 🎞️ Motion Design & Animation (After Effects, Blender etc)
-- 🧪 trying some creative tech experiments latley...
 
 ---
 
